@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "catalogo-jogos-82fa1",
+  "private_key_id": "b8fd9fbc8620023b2fe17c43d9988fc4eafebf75",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC14Fx2XerYmkT7\ntJCGso0ns6vKIH434x07FHTvfOsFimE2yuLieI2IS4Z4TbrivIxcYLtpBw9vFMPY\nX8N4eBHwJmua85Bqc4JckRIHGpBwzoDr4KakE2AFNtaJYPGWjroPrNnh+H7huEhz\nIAuI4RRgGjaQVfC2LLVQlbZetv7hoJgj8PBbRrUxEzGMUaHUAZLOQ+Zei6+8kzkk\n/6s48HSaO0PwkqJMBRYXqUB/Ouk1BjNg9rY91onEj7DuFpc+S/345Ad2x6IusjeY\nciqzpY1H65nCd7zdoR0gr9stq8SU4RbZZgJKIBzCmRBVwS1nMPAcEyA5htwhT1lJ\n1c+lBC8tAgMBAAECggEAHbO0De2VCIYbHWsVzjWTGUh9ld8cFcbsk2UqGqFRJWC9\nswvLpTYQURGadoOlMVme54gxmvuY8OhYennbK42aSliP6qh7rXLLN5BGfCwBqjaD\nNeJEfJegbwGPZDSVh6Or7ZrqIz3ohLbKeCij0ZkGcZJeVlB+pNWkz7H/bDTg55pB\nuBu5GVwj5dQNBVXXbkC3HUIXNfev14u+ydkgoKynEAowISY3DKxvpcikxisG5jHH\nRduA9C/eYIIeI9vhUmFXFApk9u4tkHR1W04ub4gAnIXjrJsjEdChIwtJ1rPANE2A\nfrX/oXugPc3AWBRuPkkDyTm8uUuATPal4vQhBte+GQKBgQD/pJpxT6JljTXtt2kT\nhGL/ny53alQOmUDc6vezcEJFo//V3RbyyTE1xdZ7jLy3oYefafiYZH03YtcVhTU+\n1YQGUtjrLrC5imj7UHFDY0M7My12N8/Qvsd4Odbqsb4diE9t39qhwjPk+ly9B4fa\n/YZwJWN6WrlYgMTH+IiNs99rSQKBgQC2IWKVGM23AE6Mo1t7EmOZgVMY+bWM0Co4\n1g6tg487gj+cnVUinksHCIvUdRDmVt+Nf1e+9RrzhYWq9rCnWp+FbQVdIWQW/N6v\nufWJRung7mHqAR6nCZA7TQHzk2uzzwOmu7a45PxaGIUt7hevGBPr6SKqAGdafLSr\nODLGDcGgxQKBgHlrHauJzjD7c8y3GyIY88hDO5eeGdRhN6x1sTY5sFBRR1a1Tov7\nwPKwR2GhA5UYFElD1L3UpKBkwpFHFnYEhVNXkA2LvIYzVg9fMpx2Dd2VPhdzBLI5\nmpXgqtIHn6t5LXibJMVFbs5nlxp09DKvzWWAbJIVewitCEmOIpVjBE95AoGBALP1\nCsZNKr4+RF677mENi3IakXPlD9jhukZMY1ZY3oarLJVf88Xv6Cw76oXzYc5mWh8i\nix24a3fhH3EMrQG/Dk20qg8aNh5sns+9C3onomHIyOCBWLstPOELNvloWYvh6Tau\n1V2djCatgbIfRjGQteZshf65xWVoQM/JCIoe/4oNAoGAYE2mjAxQPpgMHdOfNTz+\nMX47TLp7Q+TPJwNpoevpvyqRfDn5Xi4IjVByZTS3vPlOjMEreuPy3VmxXgdG6VnB\nCHOXjJeaoSDuT7NSEYq7Ja8s9NOBTGNplyADRdAY02T+dFHw/9KrVqkQ1A7OB8JP\nqaqk21zKHCz4DER8+Q9Nftc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-htqg1@catalogo-jogos-82fa1.iam.gserviceaccount.com",
+  "client_id": "115005971103211621656",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-htqg1%40catalogo-jogos-82fa1.iam.gserviceaccount.com"
+}
