@@ -5,15 +5,15 @@ Repositório para bootcamp Take Blip .NET
 
 Foi desenvolvida com o intuito de praticar API em .NET.
 
-####GET Jogos:
+#### GET Jogos:
 
 http://catalogo-jogos.azurewebsites.net/api/V1/Jogos
 
-####GET Pedidos:
+#### GET Pedidos:
 
 http://catalogo-jogos.azurewebsites.net/api/V1/Orders
 
-####POST Jogos:
+#### POST Jogos:
 
 http://catalogo-jogos.azurewebsites.net/api/V1/Jogos
 Id é gerado automaticamente e já adicionado ao firebase
