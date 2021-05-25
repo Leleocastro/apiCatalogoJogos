@@ -18,10 +18,14 @@ http://catalogo-jogos.azurewebsites.net/api/V1/Orders
 http://catalogo-jogos.azurewebsites.net/api/V1/Jogos
 
 Id é gerado automaticamente e já adicionado ao firebase
+
 Request Body: application/json
+
 Exemplo aceito:
+```
 {
   "nome": "string",
   "imageUrl": "string",
   "preco": 0
 }
+```
