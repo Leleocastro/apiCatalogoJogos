@@ -1,6 +1,3 @@
-# apiCatalogoJogos
-Repositório para bootcamp Take Blip .NET
-
 ## API Catálogo de Jogos
 
 Foi desenvolvida com o intuito de praticar API em .NET.
